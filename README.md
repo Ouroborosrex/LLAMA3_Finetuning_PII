@@ -113,8 +113,8 @@ These results provide valuable insights into how the different layers in the dec
 
 
 ![Model1](images/phi_ft.jpg)
-![Model2](images/mistral_ft.jpg)
-![Model3](images/llama_ft.jpg)
+![Model2](images/mistral_ft.png)
+![Model3](images/llama_ft.png)
 
 ## References
 
