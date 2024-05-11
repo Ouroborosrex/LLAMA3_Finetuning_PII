@@ -1,4 +1,4 @@
-# LLM Experimentation: Early-Exit Layer Probabilties and Evaluation
+# LLM Experimentation: PII Instruction Tuning Dataset
 The code is a Python script that utilizes transformer-based language models to generate text completions and evaluate their quality against reference outputs. It leverages the Hugging Face Transformers library for model loading, tokenization, and generation tasks. The script supports both standard language models (e.g., LLAMA3) and custom low-rank (LoRA) models, allowing users to experiment with different architectures and configurations.
 ## Language Model Text Generation and Evaluation
 
