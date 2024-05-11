@@ -1,5 +1,5 @@
 # LLM Experimentation: PII Instruction Tuning Dataset
-The code is a Python script that utilizes transformer-based language models to generate text completions and evaluate their quality against reference outputs. It leverages the Hugging Face Transformers library for model loading, tokenization, and generation tasks. The script supports both standard language models (e.g., LLAMA3) and custom low-rank (LoRA) models, allowing users to experiment with different architectures and configurations.
+The code is a Python script that creates a personal identifiable information dataset based on several BERT PII datasets. We then train a Llama 3 8B model on the PII dataset and evaluate it's performance.
 ## Language Model Text Generation and Evaluation
 
 This notebook contains a Python script for text generation and evaluation using various transformer-based language models. It leverages the Hugging Face Transformers library for model loading, tokenization, and generation tasks.
