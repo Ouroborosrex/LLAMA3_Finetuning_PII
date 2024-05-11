@@ -23,6 +23,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - Thanks to The Learning Agency Lab and contributors of the PII masking 300k dataset for providing the data used in this project.
 
----
-
-You can customize each section according to the specifics of your project, such as installation steps, library versions, and how you organize your data and notebooks. Does this structure meet your needs? Would you like to add or modify any sections?
